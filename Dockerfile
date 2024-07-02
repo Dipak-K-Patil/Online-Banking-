@@ -1,6 +1,6 @@
 #FROM openjdk
 FROM maven
-MAINTAINER "hendisantika@yahoo.co.id"
+MAINTAINER "dipakpatil9773@gmail.com"
 
 ## Install maven
 #RUN apt-get update
